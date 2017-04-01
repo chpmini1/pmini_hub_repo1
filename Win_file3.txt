@@ -1,0 +1,2 @@
+Hello!
+This is my file3 created on Windows and adding to repository using Upload file
