@@ -1,2 +1,3 @@
 Welcome back!
+Adding a new line from AWS master server. connected to github through ssh
 This is my second file on github
